@@ -11,6 +11,6 @@ My repos consist of:
 
 It’s still a work in progress with a lot of room for improvement, so I’d appreciate any feedback or suggestions you might have. 
 
-I'm also interested in collaborating with researchers who share similar interests. I'd be happy to tell you more about my ongoing projects and learn about yours.   
+I'm also interested in collaborating with researchers who share similar interests, so I'd be happy to tell you more about my ongoing projects and learn about yours.   
 
 If you wish to reach out, let's connect on LinkedIn (https://www.linkedin.com/in/josephchakar) and/or exchange emails (josephchakar8@gmail.com)!
