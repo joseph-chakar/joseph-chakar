@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! My name is Joseph Chakar I'm a PhD student applying machine learning (ML) techniques to the field of solar energy.
+Welcome to my GitHub page! My name is Joseph Chakar, and I'm a PhD student applying machine learning (ML) techniques to the field of solar energy.
 
 My repos consist of:
 - “homemade” codes and tutorials on how to apply Bayesian inference and classical machine learning techniques for scientific research (PV research in my case) 
