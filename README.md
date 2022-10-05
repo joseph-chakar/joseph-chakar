@@ -2,10 +2,10 @@
 
 Welcome to my GitHub page! My name is Joseph Chakar, and I'm a PhD student applying machine learning (ML) techniques to the field of solar energy.
 
-Specifically, I am combining ML, modeling, and experimentation to better understand the relationship between device parameters and solar cell performance and stability. I am also developing practical tools to analyze the performance of photovoltaic (PV) systems and testing the stability of promising solar cell technologies under real conditions, among other things.
+Specifically, I am combining ML, modeling, and experimentation to better understand the relationship between device parameters and solar cell performance and stability. I'm also developing practical tools to analyze the performance of photovoltaic (PV) systems and testing the stability of promising cell technologies under real conditions, among other things.
 
 On this page, you'll find:
-- “Homemade” codes and tutorials on how to use Bayesian inference and classical machine learning techniques for scientific applications (solar energy research in my case) 
+- “Homemade” codes and tutorials on how to use Bayesian inference and classical machine learning techniques for scientific applications (solar energy research in this case) 
 - Links to my latest open-access publication _Determining Solar Cell Parameters and Degradation Rates from Power Production_ Data and PV power generation dataset
 - A curated list of online resources that have helped me learn about ML and solar energy 
 
