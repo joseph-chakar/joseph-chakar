@@ -13,4 +13,4 @@ It’s still a work in progress with a lot of room for improvement, so I’d app
 
 Considering that I have a background in mechanical engineering, I wouldn't have been able to learn about ML or how to apply it to the field of PV if it weren’t for the incredible scientists and researchers who have published their work and provided free online resources to share and explain what they do. This page is thus my way of giving back to the community and promoting open-access research. 
 
-If you wish to reach out, let's connect on LinkedIn (https://www.linkedin.com/in/josephchakar) and/or exchange emails (josephchakar8@gmail.com). I'd love to tell you more about my projects and learn about yours!
+If you wish to collaborate or just reach out, let's connect on LinkedIn (https://www.linkedin.com/in/josephchakar) and/or exchange emails (josephchakar8@gmail.com). I'd love to tell you more about my projects and learn about yours!
