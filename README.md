@@ -9,7 +9,7 @@ In short, my repos consist of:
 - Links to my latest open-access publication _Determining Solar Cell Parameters and Degradation Rates from Power Production_ Data and PV power generation dataset
 - A curated list of online resources that have helped me learn about ML and solar energy 
 
-It’s still a work in progress with a lot of room for improvement, so I’d appreciate any feedback or suggestions you might have.
+This is still a work in progress with a lot of room for improvement, so I’d appreciate any feedback or suggestions you might have.
 
 Considering that I have a background in mechanical engineering, I wouldn't have been able to learn about ML or how to apply it to the field of PV if it weren’t for the incredible scientists and researchers who have published their work and provided free online resources to share and explain what they do. This page is thus my way of giving back to the community and promoting open-access research. 
 
