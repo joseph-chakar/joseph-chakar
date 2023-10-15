@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! My name is Joseph Chakar, and I'm a PhD student applying machine learning (ML) techniques to the field of solar energy.
+Welcome to my GitHub page! My name is Joseph Chakar, and I'm a PhD student at Ecole Polytechnique (IP Paris).
 
 I combine ML, modeling, and experimentation to study degradation at the solar cell, panel, and systems levels. Specifically, I am developing a set of Bayesian inference (and optimization) tools and showcasing their effectiveness through a variety of real-life (photovoltaic) applications.
 
