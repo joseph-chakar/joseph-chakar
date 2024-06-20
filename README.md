@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! I'm Joseph Chakar, and I'm a third-year PhD student at Ecole Polytechnique (IP Paris).
+Welcome to my GitHub page! I'm Joseph Chakar, and I'm a final-year PhD student at Ecole Polytechnique (IP Paris).
 
-I combine machine learning (ML), physics modeling, and experimentation to study degradation at the solar cell, panel, and system levels. Specifically, I am developing a set of Bayesian inference (and optimization) tools and showcasing their effectiveness through a variety of real-life photovoltaic (PV) applications.
+I combine machine learning (ML), physics modeling, and experimentation to study degradation at the solar cell, panel, and system levels. Specifically, I am developing a set of Bayesian inference and optimization tools and showcasing their effectiveness through a variety of real-life photovoltaic (PV) applications.
 
 In short, my repos consist of:
-- “Homemade” tutorials and Python codes on how to use Bayesian inference and classical machine learning techniques for scientific applications (solar energy research in my case) 
+- “Homemade” tutorials and Python codes on how to use Bayesian inference and classical machine learning techniques for scientific applications (solar energy research in my case)
+- A link to _SCORE_: the open-access 1D reparameterization technique I have developed to break Bayesian Optimization's curse of dimensionality
 - Links to my latest open-access publications and PV power generation dataset
 - A curated list of online resources that have helped me learn about ML and solar energy 
 
