@@ -12,6 +12,6 @@ In summary, my repos include:
 
 Since my background is in mechanical engineering, I wouldn't have been able to transition into ML and its application to solar energy if it weren’t for the incredible scientists and researchers who have shared their work and created free online learning resources. This page is my way of contributing back and supporting open, accessible research. 
 
-It’s still a work in progress, so I’m happy to receive feedback or suggestions.
+It’s still a work in progress, so I’m happy to receive feedback and suggestions.
 
 📬 Let's connect: I'm always open to discussing potential collaborations at the intersection of physics and AI!
