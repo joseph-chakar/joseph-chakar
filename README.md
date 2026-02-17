@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! I'm Joseph Chakar, a final-year PhD student at Ecole Polytechnique (IP Paris).
+Welcome to my GitHub page! I'm Joseph - a postdoc working on AI-driven photovoltaic (PV) research in Materials Acceleration Platforms (MAPs).
 
-I combine machine learning (ML), physics modeling, and experimentation to study degradation at the solar cell, panel, and system levels. Specifically, I am developing a set of Bayesian inference and optimization tools and showcasing their effectiveness through a variety of real-life photovoltaic (PV) applications.
+My work integrates ML, physics-based modeling, and experimentation to study performance and degradation across solar cells, modules, and systems. I develop Bayesian inference and optimization tools that leverage simulations to translate measured black-box efficiency and stability changes into physically interpretable parameters, validated through real-world case studies.
 
-In short, my repos consist of:
-- A link to _SCORE_: the open-access 1D reparameterization technique I have developed to break Bayesian Optimization's curse of dimensionality
-- “Homemade” tutorials and Python codes on how to use Bayesian inference and classical machine learning techniques for scientific applications (solar energy research in my case)
-- Links to my latest open-access publications and PV power generation dataset
-- A curated list of online resources that have helped me learn about ML and solar energy 
+In summary, my repos include:
+- A link to _SCORE_: an open-access 1D reparameterization technique I am developing to break Bayesian Optimization's curse of dimensionality for practical scientific applications
+- Tutorials and Python code demonstrating Bayesian and classical machine learning methods for scientific research (primarily solar energy applications)
+- Links to my latest open-access publications and associated datasets
+- A curated list of online resources that have helped me learn about ML and solar energy
 
-Since I have a background in mechanical engineering, I wouldn't have been able to learn about ML or how to apply it to the field of solar energy if it weren’t for the incredible scientists and researchers who have shared their work and provided accessible online resources. This page is thus my way of giving back to the community and promoting open-access research. 
+Since my background is in mechanical engineering, I wouldn't have been able to transition into ML and its application to solar energy if it weren’t for the incredible scientists and researchers who have shared their work and created free online learning resources. This page is my way of contributing back and supporting open, accessible research. 
 
-It's still a work in progress with a lot of room for improvement, so I’d appreciate any feedback or suggestions you might have.
+It’s still a work in progress, so I’m happy to receive feedback or suggestions.
 
-If you wish to reach out or even collaborate, let's connect on LinkedIn (https://www.linkedin.com/in/josephchakar) and/or exchange emails (josephchakar8@gmail.com). I'd love to tell you more about my projects and learn about yours!
+📬 Let's connect: I'm always open to discussing potential collaborations at the intersection of physics and AI!
