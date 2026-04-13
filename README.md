@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! I'm Joseph - a postdoc working on AI-driven photovoltaic (PV) research.
+Welcome to my GitHub page! I'm Joseph, and I'm a postdoctoral researcher working on AI-driven photovoltaic (PV) research.
 
 My work integrates ML, physics-based modeling, and experimentation to study PV performance and degradation across solar cells, modules, and systems. I develop Bayesian inference and optimization tools that leverage simulations to translate measured black-box efficiency and stability changes into physically interpretable properties. My computational predictions have been experimentally validated through real-world case studies, and I am now extending this approach to high-throughput materials screening and solar cell characterization within Materials Acceleration Platforms (MAPs), bridging controlled experimental environments with real-world outdoor operation.
 
